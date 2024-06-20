@@ -1,5 +1,4 @@
-{
-  "coupons": [
+[
     {
       "id": 1,
       "name": "Coupon A",
@@ -22,4 +21,3 @@
       "description": "Get 15% off on selected items."
     }
   ]
-}
