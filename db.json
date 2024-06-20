@@ -1,11 +1,28 @@
 {
-  "posts": [
+  "coupons": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Coupon A",
+      "expireDate": "2024-12-31",
+      "creationDate": "2024-06-01",
+      "description": "Get 5% off on selected items."
+    },
+    {
+      "id": 2,
+      "name": "Coupon B",
+      "expireDate": "2024-11-15",
+      "creationDate": "2024-05-15",
+      "description": "Get 10% off on selected items."
+    },
+    {
+      "id": 3,
+      "name": "Coupon C",
+      "expireDate": "2024-10-10",
+      "creationDate": "2024-04-01",
+      "description": "Get 15% off on selected items."
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typecode"
   }
 }
