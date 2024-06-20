@@ -1,5 +1,6 @@
-[
-   "all": {
+{
+  "all": [
+   {
         "id": 1,
         "name": "Coupon A",
         "expireDate": "2024-12-31",
@@ -21,4 +22,5 @@
         "description": "Get 15% off on selected items."
     }
 ]
+}
 
